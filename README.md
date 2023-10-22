@@ -1,16 +1,6 @@
 # pokemon_app
 
-A new Flutter project.
+A Pokemon App 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Apple Orange Pineapple Carrot Orange Carrot Apple Carrot Madness Pear Kiwi Cooler](https://github.com/AqsaMunsoor/Pokemon_App/assets/104023408/394140b7-929b-45b9-9900-c73fed035a29)
